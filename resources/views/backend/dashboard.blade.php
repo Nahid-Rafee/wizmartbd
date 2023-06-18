@@ -10,7 +10,7 @@
     </div>
 @endif
 @can('admin_dashboard')
-<h1>Hello Rafee</h1>
+
 <div class="row gutters-10">
     <div class="col-lg-6">
         <div class="row gutters-10">
